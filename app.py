@@ -5,7 +5,7 @@ import numpy as np
 import os
 
 st.set_page_config(
-    page_title="Classificador Gats vs Gossos",
+    page_title="Classificado.python-versionr Gats vs Gossos",
     layout="centered"
 )
 
